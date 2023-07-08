@@ -1,0 +1,536 @@
+.cover-child {
+  top: 704px;
+  left: calc(50% - 360px);
+  background: linear-gradient(180deg, #b7ba31, rgba(185, 113, 61, 0));
+  width: 720px;
+  height: 720px;
+}
+.cover-child,
+.cover-inner,
+.cover-item {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(600px);
+}
+.cover-item {
+  top: -482px;
+  left: calc(50% - 939px);
+  background: linear-gradient(180deg, #7531ba, rgba(137, 78, 196, 0));
+  width: 901px;
+  height: 720px;
+}
+.cover-inner {
+  top: 1128px;
+  left: calc(50% + 270px);
+  background: linear-gradient(180deg, #6d31ba, rgba(185, 113, 61, 0));
+  width: 269px;
+  height: 269px;
+}
+.playstore-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-100);
+  backdrop-filter: blur(20px);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 200px;
+  height: 66px;
+}
+.logo-google-playstore-svgrepo-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.play-store1 {
+  position: absolute;
+  top: 6px;
+  left: 52px;
+}
+.logo-google-playstore-svgrepo-group {
+  position: absolute;
+  top: 13px;
+  left: 21px;
+  width: 158px;
+  height: 40px;
+}
+.appstore-item,
+.playstore1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 66px;
+}
+.appstore-item {
+  border-radius: var(--br-xs);
+  background-color: var(--color-gainsboro-100);
+  backdrop-filter: blur(20px);
+}
+.app-store1 {
+  position: absolute;
+  top: 5px;
+  left: 43px;
+}
+.apple-logo-black-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 31px;
+  height: 38px;
+  overflow: hidden;
+}
+.app-store-group {
+  position: absolute;
+  top: 15px;
+  left: 26px;
+  width: 147px;
+  height: 38px;
+}
+.appstore1,
+.playstore-group {
+  position: absolute;
+  height: 66px;
+}
+.appstore1 {
+  top: 0;
+  left: 260px;
+  width: 200px;
+  color: var(--color-black);
+}
+.playstore-group {
+  top: 286px;
+  left: 322px;
+  width: 460px;
+}
+.swift-blockchain-revolution {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 552px);
+  font-size: 80px;
+  font-weight: 800;
+  background: linear-gradient(270deg, #ff3c6a, #ffaf36 52%, #5200ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.ready-to-energize1 {
+  position: absolute;
+  top: 122px;
+  left: calc(50% - 462px);
+  font-size: 28px;
+  font-weight: 300;
+  display: inline-block;
+  width: 924px;
+  opacity: 0.8;
+}
+.cover-child1,
+.group-parent6 {
+  position: absolute;
+  top: 353px;
+  left: 408px;
+  width: 1104px;
+  height: 352px;
+}
+.cover-child1 {
+  top: 540px;
+  left: 702px;
+  border-radius: 50%;
+  background: radial-gradient(50% 50%at 50% 50%, rgba(217, 217, 217, 0));
+  filter: blur(500px);
+  width: 575px;
+  height: 575px;
+}
+.compass-fill-1-icon1 {
+  position: absolute;
+  top: 1744px;
+  left: 1563px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.cover-child2,
+.cover-child3 {
+  position: absolute;
+  top: 638px;
+  left: 730px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child3 {
+  top: 654px;
+}
+.cover-child4,
+.cover-child5,
+.cover-child6,
+.cover-child7 {
+  position: absolute;
+  top: 670px;
+  left: 730px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child5,
+.cover-child6,
+.cover-child7 {
+  top: 686px;
+}
+.cover-child6,
+.cover-child7 {
+  top: 638px;
+  left: 746px;
+}
+.cover-child7 {
+  top: 654px;
+}
+.cover-child10,
+.cover-child11,
+.cover-child8,
+.cover-child9 {
+  position: absolute;
+  top: 670px;
+  left: 746px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child10,
+.cover-child11,
+.cover-child9 {
+  top: 686px;
+}
+.cover-child10,
+.cover-child11 {
+  top: 638px;
+  left: 762px;
+}
+.cover-child11 {
+  top: 654px;
+}
+.cover-child12,
+.cover-child13,
+.cover-child14,
+.cover-child15 {
+  position: absolute;
+  top: 670px;
+  left: 762px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child13,
+.cover-child14,
+.cover-child15 {
+  top: 686px;
+}
+.cover-child14,
+.cover-child15 {
+  top: 638px;
+  left: 778px;
+}
+.cover-child15 {
+  top: 654px;
+}
+.cover-child16,
+.cover-child17,
+.cover-child18,
+.cover-child19 {
+  position: absolute;
+  top: 670px;
+  left: 778px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child17,
+.cover-child18,
+.cover-child19 {
+  top: 686px;
+}
+.cover-child18,
+.cover-child19 {
+  top: 638px;
+  left: 794px;
+}
+.cover-child19 {
+  top: 654px;
+}
+.cover-child20,
+.cover-child21,
+.cover-child22,
+.cover-child23 {
+  position: absolute;
+  top: 670px;
+  left: 794px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child21,
+.cover-child22,
+.cover-child23 {
+  top: 686px;
+}
+.cover-child22,
+.cover-child23 {
+  top: 638px;
+  left: 810px;
+}
+.cover-child23 {
+  top: 654px;
+}
+.cover-child24,
+.cover-child25,
+.cover-child26,
+.cover-child27 {
+  position: absolute;
+  top: 670px;
+  left: 810px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child25,
+.cover-child26,
+.cover-child27 {
+  top: 686px;
+}
+.cover-child26,
+.cover-child27 {
+  top: 638px;
+  left: 826px;
+}
+.cover-child27 {
+  top: 654px;
+}
+.cover-child28,
+.cover-child29,
+.cover-child30,
+.cover-child31 {
+  position: absolute;
+  top: 670px;
+  left: 826px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child29,
+.cover-child30,
+.cover-child31 {
+  top: 686px;
+}
+.cover-child30,
+.cover-child31 {
+  top: 638px;
+  left: 842px;
+}
+.cover-child31 {
+  top: 654px;
+}
+.cover-child32,
+.cover-child33,
+.cover-child34,
+.cover-child35 {
+  position: absolute;
+  top: 670px;
+  left: 842px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child33,
+.cover-child34,
+.cover-child35 {
+  top: 686px;
+}
+.cover-child34,
+.cover-child35 {
+  top: 638px;
+  left: 858px;
+}
+.cover-child35 {
+  top: 654px;
+}
+.cover-child36,
+.cover-child37,
+.cover-child38,
+.cover-child39 {
+  position: absolute;
+  top: 670px;
+  left: 858px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child37,
+.cover-child38,
+.cover-child39 {
+  top: 686px;
+}
+.cover-child38,
+.cover-child39 {
+  top: 638px;
+  left: 874px;
+}
+.cover-child39 {
+  top: 654px;
+}
+.cover-child40,
+.cover-child41,
+.cover-child42,
+.cover-child43 {
+  position: absolute;
+  top: 670px;
+  left: 874px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child41,
+.cover-child42,
+.cover-child43 {
+  top: 686px;
+}
+.cover-child42,
+.cover-child43 {
+  top: 638px;
+  left: 890px;
+}
+.cover-child43 {
+  top: 654px;
+}
+.cover-child44,
+.cover-child45,
+.cover-child46,
+.cover-child47 {
+  position: absolute;
+  top: 670px;
+  left: 890px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child45,
+.cover-child46,
+.cover-child47 {
+  top: 686px;
+}
+.cover-child46,
+.cover-child47 {
+  top: 638px;
+  left: 906px;
+}
+.cover-child47 {
+  top: 637px;
+  left: 914px;
+}
+.cover-child48,
+.cover-child49,
+.cover-child50 {
+  position: absolute;
+  top: 654px;
+  left: 906px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child49,
+.cover-child50 {
+  top: 653px;
+  left: 914px;
+}
+.cover-child50 {
+  top: 670px;
+  left: 906px;
+}
+.cover-child51,
+.cover-child52,
+.cover-child53 {
+  position: absolute;
+  top: 669px;
+  left: 914px;
+  width: 16px;
+  height: 16px;
+}
+.cover-child52,
+.cover-child53 {
+  top: 686px;
+  left: 906px;
+}
+.cover-child53 {
+  top: 685px;
+  left: 914px;
+}
+.cover-child54 {
+  position: absolute;
+  top: 570px;
+  left: calc(50% - 948px);
+  width: 1908px;
+  height: 720px;
+}
+.header3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(20px);
+  width: 1480px;
+  height: 100px;
+}
+.career1,
+.home2 {
+  position: absolute;
+  top: 36px;
+  left: 558px;
+}
+.career1 {
+  left: 844px;
+}
+.features1,
+.launchapp-item {
+  position: absolute;
+  top: 36px;
+  left: 685px;
+}
+.launchapp-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-300);
+  width: 189px;
+  height: 53px;
+}
+.launch-app2,
+.launchapp1 {
+  position: absolute;
+  top: 15px;
+  left: 36px;
+}
+.launchapp1 {
+  top: 23px;
+  left: 1261px;
+  width: 189px;
+  height: 53px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.logo-icon1 {
+  position: absolute;
+  top: 25px;
+  left: 60px;
+  width: 36px;
+  height: 50px;
+  object-fit: cover;
+}
+.header2 {
+  position: absolute;
+  top: 60px;
+  left: 220px;
+  width: 1480px;
+  height: 100px;
+  font-size: var(--font-size-5xl);
+}
+.cover {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1290px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
